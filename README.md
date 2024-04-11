@@ -10,16 +10,24 @@ Hey, I’m Apurva - a Grad student at University of Illinois at Urbana-Champaign
 
 ## What I'm Up To
 🌱 Currently cultivating my skills in AWS and Azure.
+
 📊 Crafting actionable insights through data analysis.
+
 📈 Driving strategic decision-making with business intelligence.
+
 🚀 Steering projects from conception to triumph.
 
 ## My Toolbox 🧰
 Data Analysis: Python, R, SQL
+
 Business Intelligence: Power BI, Tableau, Advanced Excel, Google Data Analytics
+
 Project Management: Agile, Scrum, Kanban, JIRA
+
 Tools: MS Office 365, Git, Slack, Trello
 
 ## Let's Connect 🤝
+
 📧 Email: Apurvapadwal7@gmail.com
+
 💼 LinkedIn: [ApurvaPadwal](https://www.linkedin.com/in/apurvapadwal/)
