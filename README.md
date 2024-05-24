@@ -3,7 +3,7 @@
 </p>
 
 ## Who Am I?
-Hey, I’m Apurva - a Grad student at University of Illinois at Urbana-Champaign with a heart that beats in Information Management! I'm your friendly neighborhood Data Analyst, Business Intelligence Aficionado, and Project Management Extraordinaire. Whether it's deciphering data puzzles, illuminating business insights, or orchestrating projects to perfection, I thrive in the dynamic intersection of data and strategy.
+Hey, I’m Apurva - A recent graduate from University of Illinois at Urbana-Champaign with a heart that beats in Information Management! I'm your friendly neighborhood Data Analyst, Business Intelligence Aficionado, and Project Management Extraordinaire. Whether it's deciphering data puzzles, illuminating business insights, or orchestrating projects to perfection, I thrive in the dynamic intersection of data and strategy.
 
 <p align="center"> 
   Visitor count<br>
