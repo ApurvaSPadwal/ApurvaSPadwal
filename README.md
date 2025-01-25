@@ -3,7 +3,7 @@
 </p>
 
 ## Who Am I?
-Hey, I’m Apurva - A recent graduate from University of Illinois at Urbana-Champaign with a heart that beats in Information Management! I'm your friendly neighborhood Data Analyst, Business Intelligence Aficionado, and Project Management Extraordinaire. Whether it's deciphering data puzzles, illuminating business insights, or orchestrating projects to perfection, I thrive in the dynamic intersection of data and strategy.
+Hey, I’m Apurva - Business Intelligence Analyst at Invictus Group and a graduate from University of Illinois at Urbana-Champaign with a heart that beats in Information Management! I'm your friendly neighborhood Data Analyst, Business Intelligence Aficionado, and Project Management Extraordinaire. Whether it's deciphering data puzzles, illuminating business insights, or orchestrating projects to perfection, I thrive in the dynamic intersection of data and strategy.
 
 <p align="center"> 
   Visitor count<br>
@@ -11,7 +11,7 @@ Hey, I’m Apurva - A recent graduate from University of Illinois at Urbana-Cham
 </p>
 
 ## What I'm Up To
-🌱 Currently cultivating my skills in AWS and Azure.
+🌱 Currently cultivating my skills in AWS, Git and Azure.
 
 📊 Crafting actionable insights through data analysis.
 
@@ -20,9 +20,9 @@ Hey, I’m Apurva - A recent graduate from University of Illinois at Urbana-Cham
 🚀 Steering projects from conception to triumph.
 
 ## My Toolbox 🧰
-Data Analysis: Python, R, SQL
+Data Analysis: Python, R, SQL, Advanced Excel
 
-Business Intelligence: Power BI, Tableau, Advanced Excel, Google Data Analytics
+Business Intelligence: Power BI, Tableau, Advanced Excel, Google Data Analytics, Looker
 
 Project Management: Agile, Scrum, Kanban, JIRA
 
